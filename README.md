@@ -1,5 +1,5 @@
 ### Olá, Meu nome é Renan Afonso 👨‍💻
-    Cursando Análise de sistemas, UMC - Universidade Mogi das Cruzes
+    Cursando Análise e desenvolvimento de sistemas, UMC - Universidade Mogi das Cruzes
     Aprendendo JavaScript ✍
 
 ## Contatos
